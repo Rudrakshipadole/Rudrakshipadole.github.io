@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d72fc46a.css",
+    "main.css": "/static/css/main.483366f1.css",
     "main.js": "/static/js/main.0a1588b4.js",
     "static/media/mdb2.png": "/static/media/mdb2.b842c81aa9990c203dcf.png",
     "static/media/Resume_Padole_Rudrakshi.pdf": "/static/media/Resume_Padole_Rudrakshi.8fcbce77ed529a281103.pdf",
@@ -11,11 +11,11 @@
     "static/media/avatar7.jpg": "/static/media/avatar7.05392937cdcf3620f16c.jpg",
     "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
     "index.html": "/index.html",
-    "main.d72fc46a.css.map": "/static/css/main.d72fc46a.css.map",
+    "main.483366f1.css.map": "/static/css/main.483366f1.css.map",
     "main.0a1588b4.js.map": "/static/js/main.0a1588b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.d72fc46a.css",
+    "static/css/main.483366f1.css",
     "static/js/main.0a1588b4.js"
   ]
 }
