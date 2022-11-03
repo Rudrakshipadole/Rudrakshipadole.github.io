@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.e720bc87.css",
-    "main.js": "/static/js/main.8ee9d069.js",
-    "static/media/Image 4.png": "/static/media/Image 4.84f9ffb14403f321830f.png",
-    "static/media/Image 6.png": "/static/media/Image 6.fb32172b8771b42b335b.png",
-    "static/media/Image 3.png": "/static/media/Image 3.392e06248c3fa4e70992.png",
-    "static/media/Image 5.png": "/static/media/Image 5.4616a3b1bad4cea9890c.png",
+    "main.js": "/static/js/main.7e510e2f.js",
+    "static/media/music1.png": "/static/media/music1.3b42b25b89cf70e23423.png",
+    "static/media/guess.png": "/static/media/guess.275284e50946ca1e240e.png",
+    "static/media/todo1.png": "/static/media/todo1.92eaa46cf8e6468327a1.png",
+    "static/media/tic1.png": "/static/media/tic1.c412d4923356d5a5eb59.png",
     "static/media/mdb2.png": "/static/media/mdb2.b842c81aa9990c203dcf.png",
     "static/media/Resume_Padole_Rudrakshi.pdf": "/static/media/Resume_Padole_Rudrakshi.8fcbce77ed529a281103.pdf",
     "static/media/a3.png": "/static/media/a3.59301cc85b35288ed0f4.png",
@@ -16,10 +16,10 @@
     "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
     "index.html": "/index.html",
     "main.e720bc87.css.map": "/static/css/main.e720bc87.css.map",
-    "main.8ee9d069.js.map": "/static/js/main.8ee9d069.js.map"
+    "main.7e510e2f.js.map": "/static/js/main.7e510e2f.js.map"
   },
   "entrypoints": [
     "static/css/main.e720bc87.css",
-    "static/js/main.8ee9d069.js"
+    "static/js/main.7e510e2f.js"
   ]
 }
