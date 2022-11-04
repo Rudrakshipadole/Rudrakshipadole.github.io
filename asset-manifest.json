@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.e720bc87.css",
-    "main.js": "/static/js/main.7e510e2f.js",
-    "static/media/music1.png": "/static/media/music1.3b42b25b89cf70e23423.png",
-    "static/media/guess.png": "/static/media/guess.275284e50946ca1e240e.png",
-    "static/media/todo1.png": "/static/media/todo1.92eaa46cf8e6468327a1.png",
-    "static/media/tic1.png": "/static/media/tic1.c412d4923356d5a5eb59.png",
+    "main.js": "/static/js/main.abfb2e6e.js",
     "static/media/mdb2.png": "/static/media/mdb2.b842c81aa9990c203dcf.png",
     "static/media/Resume_Padole_Rudrakshi.pdf": "/static/media/Resume_Padole_Rudrakshi.8fcbce77ed529a281103.pdf",
+    "static/media/music1.png": "/static/media/music1.a24bdb9b2886065f8d0f.png",
     "static/media/a3.png": "/static/media/a3.59301cc85b35288ed0f4.png",
     "static/media/fb.png": "/static/media/fb.ba4e63597cd37ef44954.png",
     "static/media/react.png": "/static/media/react.d32b912d40b3d8821e47.png",
     "static/media/rdux.png": "/static/media/rdux.1e1de8bb8ad0a6d1de8e.png",
+    "static/media/guess.png": "/static/media/guess.0a7c3cae7fcbcd7416fc.png",
     "static/media/avatar7.jpg": "/static/media/avatar7.05392937cdcf3620f16c.jpg",
+    "static/media/todo1.png": "/static/media/todo1.22cb9dfc9b83423dc637.png",
     "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/tic1.png": "/static/media/tic1.decf8d74965037fbf35f.png",
     "index.html": "/index.html",
     "main.e720bc87.css.map": "/static/css/main.e720bc87.css.map",
-    "main.7e510e2f.js.map": "/static/js/main.7e510e2f.js.map"
+    "main.abfb2e6e.js.map": "/static/js/main.abfb2e6e.js.map"
   },
   "entrypoints": [
     "static/css/main.e720bc87.css",
-    "static/js/main.7e510e2f.js"
+    "static/js/main.abfb2e6e.js"
   ]
 }
