@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.e720bc87.css",
-    "main.js": "/static/js/main.abfb2e6e.js",
+    "main.js": "/static/js/main.7d38797f.js",
     "static/media/mdb2.png": "/static/media/mdb2.b842c81aa9990c203dcf.png",
-    "static/media/Resume_Padole_Rudrakshi.pdf": "/static/media/Resume_Padole_Rudrakshi.8fcbce77ed529a281103.pdf",
+    "static/media/Rudrakshi_Padole.pdf": "/static/media/Rudrakshi_Padole.91ede79badfd52bebec5.pdf",
     "static/media/music1.png": "/static/media/music1.a24bdb9b2886065f8d0f.png",
     "static/media/a3.png": "/static/media/a3.59301cc85b35288ed0f4.png",
     "static/media/fb.png": "/static/media/fb.ba4e63597cd37ef44954.png",
@@ -16,10 +16,10 @@
     "static/media/tic1.png": "/static/media/tic1.decf8d74965037fbf35f.png",
     "index.html": "/index.html",
     "main.e720bc87.css.map": "/static/css/main.e720bc87.css.map",
-    "main.abfb2e6e.js.map": "/static/js/main.abfb2e6e.js.map"
+    "main.7d38797f.js.map": "/static/js/main.7d38797f.js.map"
   },
   "entrypoints": [
     "static/css/main.e720bc87.css",
-    "static/js/main.abfb2e6e.js"
+    "static/js/main.7d38797f.js"
   ]
 }
